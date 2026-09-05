@@ -88,3 +88,5 @@ graphify-out/*
 .next-analyze/*
 
 .openclaude
+# Kiro local workspace state
+.kiro/
